@@ -75,6 +75,8 @@ The dashboard includes the following key performance indicators (KPIs):
 - Active Customers
 - Total Customers
 
+![Power BI Dashboard](dashboard.png)
+
 ### Dashboard Visualizations
 
 The dashboard presents:
